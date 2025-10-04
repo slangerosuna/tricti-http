@@ -1,5 +1,5 @@
 [package]
-name = "trihttp"
+name = "tricti-http"
 version = "0.0.0"
 license = "MIT"
 description = "This is the standard implementation of the http protocol for TriCTI, with features for things like routing http requests"
